@@ -1,3 +1,3 @@
 # Code of Conduct :guard:
-- [ ] I implemented the frontend part according to our best practices on every not legacy project [Checklist](https://pmsoftware.atlassian.net/wiki/spaces/PM/pages/3320414209/Checklist) :hugs:
+- [ ] Every part of the PR should follow our guideline [Checklist](https://pmsoftware.atlassian.net/wiki/spaces/PM/pages/3499393025/Pull+Requests+Checklist+-+WIP) :hugs:
 - [ ] I respected all linting rules :innocent:
